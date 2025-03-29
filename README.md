@@ -14,7 +14,6 @@ This project involves analyzing customer churn data for a bank to uncover key in
 6. [Insights and Recommendations](#insights-and-recommendations)
 7. [How to Use This Project](#how-to-use-this-project)
 8. [Conclusion](#conclusion)
-9. [Contact](#contact)
 
 ## Project Description
 
