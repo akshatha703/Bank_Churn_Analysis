@@ -81,12 +81,5 @@ Based on the analysis, the following insights and recommendations were made:
 
 This Bank Churn Analysis project provides a comprehensive approach to understanding and mitigating customer churn. By combining data cleaning, SQL analysis, and Power BI visualization, valuable insights were uncovered to inform strategic decisions.
 
-## Contact
 
-For any questions or further information, please contact:
 
-- **Name:** Divyanshu Jaimini
-- **Email:** jaimini.divyanshu@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/divyanshu-jaimini-016a221a2/
-
-Thank you for your interest in the Bank Churn Analysis project!
